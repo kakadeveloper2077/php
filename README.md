@@ -1,1 +1,1 @@
-# php
+🐘 php is a backend language, most used for servers purppose, it only accept five type of data: INTEGER, DOUBLE, STRINGS, BOOLEAN and OBJECT, they: numbers wihout dots and can be positive or negative, double has the dots and has the positive or negative values too, there´s one which only works with text between the "", for example: "water", anothers for true or false, and for the least, object, object works with the concept inside the OOP.
