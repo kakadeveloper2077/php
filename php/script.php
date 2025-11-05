@@ -83,6 +83,4 @@ echo $meuArrayLindo[3] ." [quarto índice.] <br>";
 echo $meuArrayLindo[4] ." [quinto índice.] <br>";
 echo "------------------------- <br>";
 
-/*Functions*/
-echo "<h1>Functions</h1>";
 ?>
