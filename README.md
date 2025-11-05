@@ -1,4 +1,4 @@
 🐘 Php is a backend language, most used for servers purppose, it only accept five type of data: INTEGER, DOUBLE, STRINGS, BOOLEAN and OBJECT, they: numbers wihout dots and can be positive or negative, double has the dots and has the positive or negative values too, there´s one which only works with text between the "", for example: "water", anothers for true or false, and for the least, object, object works with the concept inside the OOP. <br><br>
-📒 Im studying by the book of my System Analysys and Development´s book, but you can find some information, about how to use the development server, and more here: https://www.youtube.com/watch?v=6qafpEI8lcU&t=2540s. <br><br>
+📒 Finally got the basics from the book of my System Analysys and Development´s book, but you can find some information, about how to use the development server, and more here: https://www.youtube.com/watch?v=6qafpEI8lcU&t=2540s. <br><br>
 🧾 NOTE: you can check the source code, and study it or just look, since im not finished with the essential of it, the basics, it ill recieve updates, since im still learning and reviewing the content about it.
 
