@@ -70,4 +70,19 @@ $counter = 0;
 while ($counter++ < 10){
     echo $counter . "<br>";
 }
+
+/*Array*/
+echo "<h1>Array</h1>";
+$meuArrayLindo = array(1,2,3,"Guga",5);
+$meuArrayVazio = array();
+echo "------------------------- <br>";
+echo $meuArrayLindo[0] ." [primeiro índice.] <br>";
+echo $meuArrayLindo[1] ." [segundo índice.] <br>";
+echo $meuArrayLindo[2] ." [terceiro índice.] <br>";
+echo $meuArrayLindo[3] ." [quarto índice.] <br>";
+echo $meuArrayLindo[4] ." [quinto índice.] <br>";
+echo "------------------------- <br>";
+
+/*Functions*/
+echo "<h1>Functions</h1>";
 ?>
